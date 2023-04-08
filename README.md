@@ -1,4 +1,4 @@
-## Spring Boot Phone Number Authentication
+# Spring Boot Phone Number Authentication
 
 Demo Phone No Authentication Application built on SpringBoot
 <br>
